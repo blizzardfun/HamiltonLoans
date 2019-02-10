@@ -1,0 +1,5 @@
+,all_test,usbank_test,wells_test,quicken_test,all_blindtest,usbank_blindtest,wells_blindtest,quicken_blindtest,all_female,usbank_female,wells_female,quicken_female,all_male,usbank_male,wells_male,quicken_male,all_asian,usbank_asian,wells_asian,quicken_asian,all_black,usbank_black,wells_black,quicken_black,all_white,usbank_white,wells_white,quicken_white
+true-,112,95,69,0,71,99,55,0,110,184,95,0,151,195,138,0,18,21,19,0,17,32,15,0,212,311,186,0
+false-,1839,540,632,565,1880,536,646,565,2254,720,880,485,4001,1242,1539,1038,288,107,124,35,310,99,138,43,5291,1678,2087,1241
+false+,54,91,22,0,28,110,16,0,41,135,29,0,69,178,39,0,2,8,3,0,4,16,4,0,101,284,59,0
+true+,6513,1948,3026,1531,6539,1929,3032,1531,7537,2307,3620,1487,15718,4868,7848,2854,927,329,493,96,571,151,307,97,20861,6611,10511,3497
