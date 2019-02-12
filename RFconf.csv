@@ -1,0 +1,17 @@
+quadrant,cnf_result,lender
+true-,519,all
+false+,1432,all
+false-,695,all
+true+,5872,all
+true-,220,usbank
+false+,415,usbank
+false-,246,usbank
+true+,1793,usbank
+true-,199,wells
+false+,502,wells
+false-,222,wells
+true+,2826,wells
+true-,105,quicken
+false+,460,quicken
+false-,200,quicken
+true+,1331,quicken
