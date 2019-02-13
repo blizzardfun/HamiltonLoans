@@ -1,10 +1,9 @@
-# HamiltonLoans
-To Loan or not to Loan, That is the Question
+#Hamilton Loans  To Loan or Not to Loan, That is the Question
 
 ![alt text](https://github.com/blizzardfun/HamiltonLoans/blob/master/images/House.jpg)
 
 Goal:
-The goal of this project was to examine Home Mortgage Disclosure Act (HMDA) data and determine the variables most significant in deciding if a loan is approved or denied.
+The goal of this project was to examine Home Mortgage Disclosure Act (HMDA) data and determine the variables most significant in deciding if a loan is approved or denied. We did not have the most significant credit data available so our results were limited. We went on to compare the various Machine Learning models for effectiveness.
 
 Data Source: https://ffiec.cfpb.gov/data-publication/modified-lar 
 
