@@ -12,7 +12,7 @@ The goal of this project was to examine Home Mortgage Disclosure Act (HMDA) data
 
 [Data Source]( https://ffiec.cfpb.gov/data-publication/modified-lar) 
 
-[Data Description] (https://github.com/cfpb/hmda-platform/blob/master/docs/v1/2017_Modified_LAR_Spec.csv)
+[Data Description](https://github.com/cfpb/hmda-platform/blob/master/docs/v1/2017_Modified_LAR_Spec.csv)
 
 We selected 2017 data from 6 lending institutions(3 banks and 3 online lenders): U.S. Bank, Wells Fargo Bank, Bell Bank, Quicken Loans, American Mortgage & Equity Consultants Inc. (AMEC) and Guaranteed Rate
 
