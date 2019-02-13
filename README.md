@@ -16,11 +16,12 @@ The goal of this project was to examine Home Mortgage Disclosure Act (HMDA) data
 
 We selected 2017 data from 6 lending institutions(3 banks and 3 online lenders): U.S. Bank, Wells Fargo Bank, Bell Bank, Quicken Loans, American Mortgage & Equity Consultants Inc. (AMEC) and Guaranteed Rate
 
-Data Elements Used:"respondent id","agency code","property type","loan purpose","loan amount","applicant race 1","sex","lien status","loan type modified"
+Data Elements Used:"respondent id","agency code","property type","loan purpose","loan amount","applicant race 1","sex","lien status"
 
 Data Elements Created:
-"action modified": Action Taken options reduced to approved and denied  1,2,3,7,8 => approved 4,5,6 => denied,
-"income cleaned" : removed null values,
+"action modified": Action Taken options reduced to approved and denied  1,2,3,7,8 => approved 4,5,6 => denied;
+"loan type modified": reduced four groups to two Conventional and Combined FHA, VA and FSA/RHS;
+"income cleaned" : removed null values;
 "income loan ratio": income/loan amount
 
 Note: This project is written in Python 3 using Sci-Kit Learn machine learning models (Linear Regression, Logistic Regression, Random Forest, Support Vector Machine (SVM) and Neural Networks) and is visualized on Tableau. 
