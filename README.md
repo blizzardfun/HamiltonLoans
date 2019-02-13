@@ -1,4 +1,5 @@
-#Hamilton Loans  To Loan or Not to Loan, That is the Question
+# Hamilton Loans  
+To Loan or Not to Loan, That is the Question
 
 ![alt text](https://github.com/blizzardfun/HamiltonLoans/blob/master/images/House.jpg)
 
@@ -14,10 +15,8 @@ We used data from three lending institutions: U.S. Bank, Wells Fargo Bank and Qu
 Data Elements Used:"respondent id","agency code","property type","loan purpose","loan amount","applicant race 1","sex","lien status","loan type modified"
 
 Data Elements Created:
-"action modified": Action Taken options reduced to approved and denied  1,2,3,7,8 => approved 4,5,6 => denied
-
-"income cleaned" : removed null values
-
+"action modified": Action Taken options reduced to approved and denied  1,2,3,7,8 => approved 4,5,6 => denied,
+"income cleaned" : removed null values,
 "income loan ratio": income/loan amount
 
 Note: This project is written in Python 3 using Sci-Kit Learn machine learning models (Linear Regression, Logistic Regression, Random Forest, Support Vector Machine (SVM) and Neural Networks) and is visualized on Tableau. 
