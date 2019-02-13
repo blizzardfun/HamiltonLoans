@@ -3,3 +3,15 @@ true-,0,all
 false+,5780,all
 false-,0,all
 true+,19774,all
+true-,22,usbank
+false+,1548,usbank
+false-,31,usbank
+true+,4816,usbank
+true-,0,wells
+false+,1663,wells
+false-,0,wells
+true+,7335,wells
+true-,0,quicken
+false+,565,quicken
+false-,0,quicken
+true+,1531,quicken

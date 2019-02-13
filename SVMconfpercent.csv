@@ -3,3 +3,15 @@ true-,0.0,all
 false+,0.2261876809892776,all
 false-,0.0,all
 true+,0.7738123190107223,all
+true-,0.003428393330216612,usbank
+false+,0.24123422159887797,usbank
+false-,0.004830917874396135,usbank
+true+,0.7505064671965093,usbank
+true-,0.0,wells
+false+,0.18481884863302955,wells
+false-,0.0,wells
+true+,0.8151811513669704,wells
+true-,0.0,quicken
+false+,0.2695610687022901,quicken
+false-,0.0,quicken
+true+,0.7304389312977099,quicken
